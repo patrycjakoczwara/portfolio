@@ -1,2 +1,2 @@
 # portfolio
-Moje portfolio
+Moje portfolio w wersji roboczej
